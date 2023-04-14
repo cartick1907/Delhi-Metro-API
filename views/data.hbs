@@ -1,0 +1,8 @@
+<p>Welcome to {{title}}</p>
+<script type = "module" src="/javascripts/map.js"></script>
+<form>
+    <label for="string1">Enter the line to get its data:</label>
+    <input type="text" id="lineName" name="string1"><br>
+
+    <button type="button" onclick="displayLine(document.getElementById("lineName").value)">Print Line</button>
+</form>

@@ -1,0 +1,60 @@
+[
+    {
+        "10": "At Grade",
+        "id": "1",
+        "English": "Yamuna Bank",
+        "Phase": "यमुना बैंक",
+        "Opening": "2",
+        "Interchange\nConnection": "10 May 2009",
+        "Station Layout": "Feeder Bus",
+        "Platform Level Type": "At Grade",
+        "Depot Connection": "Island",
+        "Depot Layout": "Yamuna Bank Depot"
+    },
+    {
+        "id": "2",
+        "English": "Laxmi Nagar",
+        "Phase": "लक्ष्मी नगर",
+        "Opening": "6 January 2010[7]",
+        "Interchange\nConnection": "Feeder Bus",
+        "Station Layout": "Elevated",
+        "Platform Level Type": "Side",
+        "Depot Connection": "None",
+        "Depot Layout": "None"
+    },
+    {
+        "id": "3",
+        "English": "Nirman Vihar",
+        "Phase": "निर्माण विहार"
+    },
+    {
+        "id": "4",
+        "English": "Preet Vihar",
+        "Phase": "प्रीत विहार"
+    },
+    {
+        "id": "5",
+        "English": "Karkarduma",
+        "Phase": "कड़कड़ डूमा",
+        "Opening": "Pink Line"
+    },
+    {
+        "id": "6",
+        "English": "Anand Vihar",
+        "Phase": "आनंद विहार",
+        "Opening": "Pink Line   Indian Railways   ISBT"
+    },
+    {
+        "id": "7",
+        "English": "Kaushambi",
+        "Phase": "कौशाम्बी",
+        "Opening": "14 July 2011[8]",
+        "Interchange\nConnection": "Bus Terminal"
+    },
+    {
+        "id": "8",
+        "English": "Vaishali",
+        "Phase": "वैशाली",
+        "Opening": "Feeder Bus"
+    }
+]

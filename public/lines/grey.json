@@ -1,0 +1,38 @@
+[
+    {
+        "id": "English",
+        "English": "Najafgarh",
+        "3": "नजफगढ़",
+        "4": "3",
+        "5": "4 October English0id9",
+        "6": "Feeder Bus",
+        "7": "Underground",
+        "8": "Island",
+        "9": "Dwarka - Najafgarh\nDepot",
+        "id0": "At Grade"
+    },
+    {
+        "id": "3",
+        "English": "Nangli",
+        "3": "नंगली",
+        "4": "3",
+        "5": "4 October English0id9",
+        "6": "Feeder Bus",
+        "7": "Elevated",
+        "8": "Side",
+        "9": "None",
+        "id0": "None"
+    },
+    {
+        "id": "4",
+        "English": "Dwarka",
+        "3": "द्वारका",
+        "4": "3",
+        "5": "4 October English0id9",
+        "6": "Blue Line \n Feeder Bus",
+        "7": "Elevated",
+        "8": "Side",
+        "9": "Dwarka - Najafgarh\nDepot",
+        "id0": "At Grade"
+    }
+]
